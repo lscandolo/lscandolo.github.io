@@ -3,4 +3,14 @@
 # only main files contain this front matter, not partials.
 ---
 
+$sidebar-bg-color: #000000;
+$link-color: #ac4142;
+$sidebar-sticky: true;
+$sidebar-bg-image: url("/assets/sidebar.png"),linear-gradient(to bottom, #000000, #000000, lighten($sidebar-bg-color, 25%));
+$sidebar-bg-repeat: no-repeat;
+
+
+// $sidebar-bg-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 15%), darken($sidebar-bg-color, 15%));
+
+
 @import "hydeout";

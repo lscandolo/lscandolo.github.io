@@ -4,10 +4,13 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+#### Dr. Leonardo Scandolo
+<img style="float: right;margin-left: 100px;margin-right: -40px;"  src="assets/me.jpg"  width="500"/>
+<p>
+I'm a software developer and researcher interested in all technologies related to computer graphics, visual media, and beyond.
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+In this page you will find a small recap of past projects, and possibly insight into new and exciting ones.
+
+
+
