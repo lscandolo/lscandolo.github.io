@@ -5,8 +5,8 @@ highlighter:      rouge
 
 # Setup
 title:            Leonardo Scandolo
-tagline:          'A Jekyll theme'
-description:      'A small personal website for random ideas.'
+tagline:          'A small personal website for random ideas'
+description:      'A small personal website for random ideas'
 url:              https://lscandolo.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -17,7 +17,7 @@ baseurl:          ''
 
 author:
   name:           'Leonardo Scandolo'
-  #url:            https://twitter.com/fongandrewc
+# url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -35,5 +35,3 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-  disqus:
-    shortname: my-disqus-shortname 
