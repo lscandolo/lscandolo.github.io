@@ -5,8 +5,8 @@ highlighter:      rouge
 
 # Setup
 title:            Leonardo Scandolo
-tagline:          'A small personal website for random ideas'
-description:      'A small personal website for random ideas'
+tagline:          'A small personal website'
+description:      'A small personal website'
 url:              https://lscandolo.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

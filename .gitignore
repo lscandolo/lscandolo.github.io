@@ -47,3 +47,10 @@ Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
+
+#Test deploy cache 
+.jekyll-cache
+
+#Backup files
+_publications_full
+
