@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lossy Geometry Compression for High Resolution Voxel Scenes
+authors: 'Remi van der Laan, Leonardo Scandolo, Elmar Eisemann'
 category: publication
 ---
 

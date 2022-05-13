@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Adaptively layered statistical volumetric obscurance
+title: 'Adaptively layered statistical volumetric obscurance'
+authors: 'Quintijn Hendrickx, Leonardo Scandolo, Martin Eisemann, Elmar Eisemann'
 category: publication
 ---
 

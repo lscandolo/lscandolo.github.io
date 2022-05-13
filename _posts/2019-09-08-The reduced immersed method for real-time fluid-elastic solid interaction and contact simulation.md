@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Reduced Immersed Method for Real-Time Fluid-Elastic Solid Interaction and Contact Simulation
+title: 'The Reduced Immersed Method for Real-Time Fluid-Elastic Solid Interaction and Contact Simulation'
+authors: 'Christopher Brandt, Leonardo Scandolo, Elmar Eisemann, Klaus Hildebrandt'
 category: publication
 ---
 

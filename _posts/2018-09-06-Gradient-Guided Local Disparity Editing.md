@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gradient-Guided Local Disparity Editing
+title: 'Gradient-Guided Local Disparity Editing'
+authors: 'Leonardo Scandolo, Pablo Bauszat, Elmar Eisemann'
 category: publication
 ---
 

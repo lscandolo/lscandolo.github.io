@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Realistic modeling of porous materials
+title: 'Realistic modeling of porous materials'
+authors: 'Rodrigo Baravalle, Leonardo Scandolo, Claudio Delrieux, Cristian García Bauza, Elmar Eisemann'
 category: publication
 ---
 

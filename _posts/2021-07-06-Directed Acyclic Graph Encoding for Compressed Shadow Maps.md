@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Directed Acyclic Graph Encoding for Compressed Shadow Maps'
+authors: 'Leonardo Scandolo, Elmar Eisemann'
 category: publication
 ---
 

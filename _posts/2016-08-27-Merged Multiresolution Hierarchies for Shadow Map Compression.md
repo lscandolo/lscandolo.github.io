@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Merged Multiresolution Hierarchies for Shadow Map Compression
+title: 'Merged Multiresolution Hierarchies for Shadow Map Compression'
+authors: 'Leonardo Scandolo, Pablo Bauszat, Elmar Eisemann'
 category: publication
 ---
 

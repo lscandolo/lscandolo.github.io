@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Spectral Processing of Tangential Vector Fields
+title: 'Spectral Processing of Tangential Vector Fields'
+authors: 'Christopher Brandt, Leonardo Scandolo, Elmar Eisemann, Klaus Hildebrandt'
 category: publication
 ---
 

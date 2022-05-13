@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Texture Browser: Feature-based Texture Exploration'
+authors: 'Xuejiao Luo, Leonardo Scandolo, Elmar Eisemann'
 category: publication
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Stochastic-Depth Ambient Occlusion'
+authors: 'Jop Vermeer, Leonardo Scandolo, Elmar Eisemann'
 category: publication
 ---
 

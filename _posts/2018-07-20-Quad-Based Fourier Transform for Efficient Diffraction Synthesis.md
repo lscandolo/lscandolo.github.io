@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Quad-Based Fourier Transform for Efficient Diffraction Synthesis
+title: 'Quad-Based Fourier Transform for Efficient Diffraction Synthesis'
+authors: 'Leonardo Scandolo, Sungkil Lee, Elmar Eisemann'
 category: publication
 ---
 

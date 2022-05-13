@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'A learning approach for river debris detection'
+authors: 'Àlex Solé Gómez, Leonardo Scandolo, Elmar Eisemann'
 category: publication
 ---
 
@@ -9,6 +10,8 @@ category: publication
 <a href="/assets/publications/SSE22/SSE22.pdf" download>Download publication</a>
 <br>
 <a href="http://graphics.tudelft.nl/Publications-new/2022/SSE22/_dataset.zip" download>Download dataset</a>
+
+
 
 ### Abstract
 

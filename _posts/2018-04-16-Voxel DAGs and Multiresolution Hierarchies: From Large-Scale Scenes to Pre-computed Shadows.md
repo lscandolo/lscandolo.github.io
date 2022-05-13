@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Voxel DAGs and Multiresolution Hierarchies: From Large-Scale Scenes to Pre-computed Shadows'
+authors: 'Ulf Assarsson, Markus Billeter, Dan Dolonius, Elmar Eisemann, Alberto Jaspe, Leonardo Scandolo, Erik Sintorn'
 category: publication
 ---
 

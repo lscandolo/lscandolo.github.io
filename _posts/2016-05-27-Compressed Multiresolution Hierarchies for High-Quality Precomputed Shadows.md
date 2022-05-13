@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Compressed Multiresolution Hierarchies for High-Quality Precomputed Shadows
+title: 'Compressed Multiresolution Hierarchies for High-Quality Precomputed Shadows'
+authors: 'Leonardo Scandolo, Pablo Bauszat, Elmar Eisemann'
 category: publication
 ---
 

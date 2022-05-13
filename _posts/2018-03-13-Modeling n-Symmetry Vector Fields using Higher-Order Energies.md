@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Modeling n-Symmetry Vector Fields using Higher-Order Energies
+title: 'Modeling n-Symmetry Vector Fields using Higher-Order Energies'
+authors: 'Christopher Brandt, Leonardo Scandolo, Elmar Eisemann, Klaus Hildebrandt'
 category: publication
 ---
 

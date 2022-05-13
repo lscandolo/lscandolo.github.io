@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A Practical and Efficient Approach for Correct Z-Pass Stencil Shadow Volumes
+title: 'A Practical and Efficient Approach for Correct Z-Pass Stencil Shadow Volumes'
+authors: 'Baran Usta, Leonardo Scandolo, Markus Billeter, Ricardo Marroquim, Elmar Eisemann'
 category: publication
 ---
 
