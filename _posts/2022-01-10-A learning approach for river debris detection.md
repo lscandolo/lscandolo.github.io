@@ -7,6 +7,8 @@ category: publication
 <img src='/assets/publications/SSE22/SSE22.png' width='800px'/> 
 <br>
 <a href="/assets/publications/SSE22/SSE22.pdf" download>Download publication</a>
+<br>
+<a href="http://graphics.tudelft.nl/Publications-new/2022/SSE22/dataset.zip" download>Download dataset</a>
 
 ### Abstract
 
