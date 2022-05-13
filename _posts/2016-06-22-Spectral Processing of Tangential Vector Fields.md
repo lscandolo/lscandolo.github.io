@@ -4,7 +4,7 @@ title: Spectral Processing of Tangential Vector Fields
 category: publication
 ---
 
-<img src='/assets/publications/BSEH17/BSEH17.png' width='400px'/>
+<img src='/assets/publications/BSEH17/BSEH17.png' width='200px'/>
 <br>
 <a href="/assets/publications/BSEH17/BSEH17.pdf" download>Download publication</a>
 <br>

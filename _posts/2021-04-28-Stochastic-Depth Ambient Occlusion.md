@@ -4,7 +4,7 @@ title: 'Stochastic-Depth Ambient Occlusion'
 category: publication
 ---
 
-<img src='/assets/publications/VSE21/VSE21.png' width='1100px'/>
+<img src='/assets/publications/VSE21/VSE21.png' width='900px'/>
 <br>
 <a href="/assets/publications/VSE21/VSE21.pdf" download>Download publication</a>
 <br>

@@ -4,7 +4,7 @@ title: Quad-Based Fourier Transform for Efficient Diffraction Synthesis
 category: publication
 ---
 
-<img src='/assets/publications/SLE18/SLE18.png' width='1100px'/>
+<img src='/assets/publications/SLE18/SLE18.png' width='900px'/>
 <br>
 <a href="/assets/publications/SLE18/SLE18.pdf" download>Download publication</a>
 <br>

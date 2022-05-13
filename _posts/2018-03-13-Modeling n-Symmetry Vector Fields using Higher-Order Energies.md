@@ -4,7 +4,7 @@ title: Modeling n-Symmetry Vector Fields using Higher-Order Energies
 category: publication
 ---
 
-<img src='/assets/publications/BSEH18/BSEH18.png' width='300px'/>
+<img src='/assets/publications/BSEH18/BSEH18.png' width='200px'/>
 <br>
 <a href="/assets/publications/BSEH18/BSEH18.pdf" download>Download publication</a>
 <br>

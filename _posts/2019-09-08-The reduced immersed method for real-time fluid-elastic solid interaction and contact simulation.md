@@ -4,7 +4,7 @@ title: The Reduced Immersed Method for Real-Time Fluid-Elastic Solid Interaction
 category: publication
 ---
 
-<img src='/assets/publications/BSEH19/BSEH19.png' width='600px'/>
+<img src='/assets/publications/BSEH19/BSEH19.png' width='500px'/>
 <br>
 <a href="/assets/publications/BSEH19/BSEH19.pdf" download>Download publication</a>
 <br>

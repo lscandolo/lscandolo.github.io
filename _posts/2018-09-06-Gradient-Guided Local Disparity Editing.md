@@ -4,7 +4,7 @@ title: Gradient-Guided Local Disparity Editing
 category: publication
 ---
 
-<img src='/assets/publications/SBE18/SBE18.png' width='1000px'/>
+<img src='/assets/publications/SBE18/SBE18.png' width='800px'/>
 <br>
 <a href="/assets/publications/SBE18/SBE18.pdf" download>Download publication</a>
 <br>

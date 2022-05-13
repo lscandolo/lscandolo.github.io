@@ -4,7 +4,7 @@ title: 'Directed Acyclic Graph Encoding for Compressed Shadow Maps'
 category: publication
 ---
 
-<img src='/assets/publications/SE21/SE21.png' width='1100px'/>
+<img src='/assets/publications/SE21/SE21.png' width='800px'/>
 <br>
 <a href="/assets/publications/SE21/SE21.pdf" download>Download publication</a>
 <br>

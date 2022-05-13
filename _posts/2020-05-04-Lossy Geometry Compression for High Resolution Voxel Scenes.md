@@ -4,7 +4,7 @@ title: Lossy Geometry Compression for High Resolution Voxel Scenes
 category: publication
 ---
 
-<img src='/assets/publications/VSE20/VSE20.png' width='1100px'/>
+<img src='/assets/publications/VSE20/VSE20.png' width='900px'/>
 <br>
 <a href="/assets/publications/VSE20/VSE20.pdf" download>Download publication</a>
 <br>

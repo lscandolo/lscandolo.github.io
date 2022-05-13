@@ -4,7 +4,7 @@ title: 'A learning approach for river debris detection'
 category: publication
 ---
 
-<img src='/assets/publications/SSE22/SSE22.png' width='800px'/> 
+<img src='/assets/publications/SSE22/SSE22.png' width='600px'/> 
 <br>
 <a href="/assets/publications/SSE22/SSE22.pdf" download>Download publication</a>
 <br>

@@ -4,7 +4,7 @@ title: 'Voxel DAGs and Multiresolution Hierarchies: From Large-Scale Scenes to P
 category: publication
 ---
 
-<img src='/assets/publications/ABDEJSS18/ABDEJSS18.png' width='1100px'/>
+<img src='/assets/publications/ABDEJSS18/ABDEJSS18.png' width='1000px'/>
 <br>
 <a href="/assets/publications/ABDEJSS18/ABDEJSS18.pdf" download>Download publication</a>
 ### Abstract

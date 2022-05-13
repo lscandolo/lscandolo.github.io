@@ -4,7 +4,7 @@ title: Merged Multiresolution Hierarchies for Shadow Map Compression
 category: publication
 ---
 
-<img src='/assets/publications/SBE16-2/SBE16-2.png' width='1000px'/>
+<img src='/assets/publications/SBE16-2/SBE16-2.png' width='800px'/>
 <br>
 <a href="/assets/publications/SBE16-2/SBE16-2.pdf" download>Download publication</a>
 <br>

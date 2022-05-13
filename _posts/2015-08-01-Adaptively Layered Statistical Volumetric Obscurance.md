@@ -4,7 +4,7 @@ title: Adaptively layered statistical volumetric obscurance
 category: publication
 ---
 
-<img src='/assets/publications/HSEE15/HSEE15.png' width='1000px'/>
+<img src='/assets/publications/HSEE15/HSEE15.png' width='700px'/>
 <br>
 <a href="/assets/publications/HSEE15/HSEE15.pdf" download>Download publication</a>
 <br>

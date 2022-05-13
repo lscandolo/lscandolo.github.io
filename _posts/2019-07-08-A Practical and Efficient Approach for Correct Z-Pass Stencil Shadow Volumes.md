@@ -4,7 +4,7 @@ title: A Practical and Efficient Approach for Correct Z-Pass Stencil Shadow Volu
 category: publication
 ---
 
-<img src='/assets/publications/USBME19/USBME19.png' width='600px'/>
+<img src='/assets/publications/USBME19/USBME19.png' width='500px'/>
 <br>
 <a href="/assets/publications/USBME19/USBME19.pdf" download>Download publication</a>
 <br>

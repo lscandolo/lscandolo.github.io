@@ -4,7 +4,7 @@ title: Realistic modeling of porous materials
 category: publication
 ---
 
-<img src='/assets/publications/BSDGE16/BSDGE16.png' width='1000px'/>
+<img src='/assets/publications/BSDGE16/BSDGE16.png' width='600px'/>
 <br>
 <a href="/assets/publications/BSDGE16/BSDGE16.pdf" download>Download publication</a> 
 

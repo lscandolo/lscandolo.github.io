@@ -4,7 +4,7 @@ title: 'Texture Browser: Feature-based Texture Exploration'
 category: publication
 ---
 
-<img src='/assets/publications/LSE21/LSE21.png' width='1100px'/>
+<img src='/assets/publications/LSE21/LSE21.png' width='900px'/>
 <br>
 <a href="/assets/publications/LSE21/LSE21.pdf" download>Download publication</a>
 <br>

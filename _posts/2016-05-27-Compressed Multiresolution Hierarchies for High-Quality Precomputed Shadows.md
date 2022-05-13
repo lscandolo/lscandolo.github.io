@@ -4,7 +4,7 @@ title: Compressed Multiresolution Hierarchies for High-Quality Precomputed Shado
 category: publication
 ---
 
-<img src='/assets/publications/SBE16/SBE16.png' width='1000px'/>
+<img src='/assets/publications/SBE16/SBE16.png' width='600px'/>
 <br>
 <a href="/assets/publications/SBE16/SBE16.pdf" download>Download publication</a>
 <br>
