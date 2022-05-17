@@ -4,8 +4,10 @@ title: About
 sidebar_link: true
 ---
 
+
+<img style="float: right;center;margin-left: 20px;"  src="assets/me.jpg"  width="100px"/>
 #### Dr. Leonardo Scandolo
-<img style="float: right;margin-left: 100px;margin-right: -0px;"  src="assets/me.jpg"  width="175px"/>
+
 
 I'm a software developer and researcher interested in all technologies related to computer graphics, visual media, high performance computing, and beyond.
 
