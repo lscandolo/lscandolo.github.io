@@ -21,8 +21,11 @@
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
+  
   {% assign tags_page = false %}
   {% assign search_page = false %}
+  {% assign linkedin_link = true %}
+
   {% for node in site.pages %}
     {% if node.layout == "tags" %}
       {% assign tags_page = node %}
@@ -30,6 +33,14 @@
       {% assign search_page = node %}
     {% endif %}
   {% endfor %}
+
+  {% comment %}
+    For now, no tags or search page.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% assign search_page = false %}
+
+
 
   {% if tags_page %}
     <a id="tags-link"
@@ -46,6 +57,15 @@
        title="Search" aria-label="Search"
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
+    </a>
+  {% endif %}
+
+  {% if linkedin_link %}
+    <a id="linkedin-link"
+       class="icon active"
+       title="LinkedIn" aria-label="LinkedIn"
+       href="{{ site.author.linkedin }}" target="_blank">
+      {% include svg/linkedin.svg %}
     </a>
   {% endif %}
 

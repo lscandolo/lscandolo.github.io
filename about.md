@@ -6,6 +6,7 @@ sidebar_link: true
 
 
 <p class="about-text">
+
 <img src="assets/me.jpg" class="about-pic"/> 
 
 <strong>Dr. Leonardo Scandolo</strong><br>

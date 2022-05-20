@@ -17,9 +17,10 @@ baseurl:          ''
 
 author:
   name:           'Leonardo Scandolo'
-# url:            https://twitter.com/fongandrewc
+  linkedin:       'https://www.linkedin.com/in/leonardo-scandolo'
+# url:            ''
 
-paginate:         5
+paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
