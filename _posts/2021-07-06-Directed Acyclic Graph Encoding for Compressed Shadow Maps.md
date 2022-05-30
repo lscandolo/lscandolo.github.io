@@ -9,9 +9,11 @@ category: publication
 <br>
 <a href="/assets/publications/SE21/SE21.pdf" download>Download publication</a>
 <br>
+<a href="http://graphics.tudelft.nl/Publications-new/2021/SE21/SE21-presentation.mp4" download>Download presentation video</a>
+<br>
 <a href="http://graphics.tudelft.nl/Publications-new/2021/SE21/SE21.pptx" download>Download powerpoint presentation</a>
 <br>
-<a href="http://graphics.tudelft.nl/Publications-new/2021/SE21/SE21.avi" download>Download showcase video</a>
+<a href="http://graphics.tudelft.nl/Publications-new/2021/SE21/SE21-supplementary.avi" download>Download showcase video</a>
 
 ### Abstract
 
